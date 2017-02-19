@@ -1,0 +1,30 @@
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
+
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both; }
+
+.clearfix {
+  zoom: 1; }
+
+.ab {
+  position: absolute; }
+
+.re {
+  position: relative; }
+
+.fixed {
+  position: fixed;
+  z-index: 400; }
+
+body {
+  color: #333;
+  background: #f0efed;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+
+/*# sourceMappingURL=common.css.map */
